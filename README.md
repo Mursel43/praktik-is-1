@@ -1,0 +1,2 @@
+# Praktik İş part-1
+Bu mənim ilk praktiki işimdir bu veb səhifə iş olaraq heçbir iş görmür ancağ yeni öyrəndiylərimi bu praktik işədə təhlil edəcəm bu sizin üçün adi bir kod dizisi ola bilər amma mənim üçün böyük bir uğurdur ne deybler dama-dama göl olar. Ona görədə əvvəldən sona nə praktik iş, adi iş ne oldusa bu github sehifemde olacaq İnşAllah daha böyük nailyətlərə doğru!

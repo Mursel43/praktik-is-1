@@ -1,0 +1,28 @@
+header{
+    background-color: #ffffff;
+}
+
+.basliq-1{
+    color: #ffffff;
+    background-color:#008b8b;
+    font-size: 50px;
+    padding: 30px ;
+    width: 250px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.5);
+
+}
+h2{
+    font-size: 40px;
+    color: #008b8b ;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 30px;
+    color: #008b8b;
+    font-weight: bold;
+}
