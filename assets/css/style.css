@@ -1,28 +1,75 @@
-header{
-    background-color: #ffffff;
+.logo{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #fff;
+    background-color: #008b8b;
+    display: inline-block;
+
+}
+.header{
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
 }
 
-.basliq-1{
-    color: #ffffff;
-    background-color:#008b8b;
-    font-size: 50px;
-    padding: 30px ;
-    width: 250px;
-    font-weight: bold;
+.header .about ,.portfolio,.contact{
+    display: inline-block;
+    position: relative;
+    left: 880px;
 }
+
 a{
     text-decoration: none;
     color: rgba(0,0,0,0.5);
-
-}
-h2{
-    font-size: 40px;
-    color: #008b8b ;
-    font-weight: bold;
 }
 
-h3{
+.body h2{
+    padding: 10px;
     font-size: 30px;
-    color: #008b8b;
     font-weight: bold;
+    color: #008b8b;
+    background-color:#fff ;
+    display: inline-block;
+
+ 
 }
+
+.body img{
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+ .body{
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    margin:130px 530px 20px 35px ;
+    padding: 20px;
+    position: absolute;
+    box-shadow: 0px 0px 10px 2px;
+ }
+
+ .body-2{
+    border: 2px solid #000;
+    display: inline-block;
+    padding: 20px;
+    position: relative;
+    left: 939px;
+    top: 130px;
+    box-shadow: 0px 0px 10px 2px;
+
+ }
+  
+ .body-2 img{
+    width: 70px;
+    height: 70px;
+ }
+ .body-2 h2{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #008b8b;
+    background-color:#fff ;
+    display: inline-block;
+ }
